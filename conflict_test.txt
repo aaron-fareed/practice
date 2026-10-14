@@ -1,1 +1,1 @@
-Branch A thinks this should be the new line change
+branch b changes this line to BLUE
